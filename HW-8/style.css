@@ -1,0 +1,171 @@
+body {
+    background: rgb(34,32,32);
+    background: linear-gradient(90deg, rgba(34,32,32,1) 0%, rgba(12,48,55,1) 53%, rgba(51,56,6,1) 93%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 20px 20px 20px;
+
+}
+
+.header {
+    display: flex;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo {
+}
+.link {
+    width: 400px;
+    height: 50px;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-around;    
+
+    
+}
+.Home {
+
+}
+
+
+.navigator {
+}
+.library {
+}
+.paid {
+}
+.search {
+    
+}
+
+.broadcast {
+    align-items: center;
+}
+.content-header {
+    display: flex;
+    align-content: center;
+
+}
+
+.account {
+    padding-left: 10px;
+}
+
+.Sign {
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 5px;
+
+}
+
+.content_music {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_music {
+
+}
+
+.subtitle_music {
+    color: lightgray;
+}
+
+.title_music {
+
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    
+}
+
+.button_left {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+
+    
+}
+
+.button_right {
+    width: 40px;
+    height: 40px;
+}
+
+.picks {
+    display: inline-block;
+}
+
+.first_column {
+    width: 300px;
+}
+
+.second_column {
+    width: 300px;
+}
+
+.third_column {
+    width: 300px;
+}
+
+.list_music {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: flex;
+}
+
+.picks_img {
+    width: 48px;
+    height: 48px;
+}
+
+
+.picks_content {
+    display: flex;
+    align-items: center;
+}
+.name_music {
+ 
+    margin: 0;
+    padding: 10px;
+}
+
+.title_song {
+    font-size: 18px;
+
+}
+
+.subtitle_song {
+    color: lightgray;
+    
+}
+
+.inline_list {
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.card_hits {
+}
+
+
+.name_hits {
+    width: 200px;
+}

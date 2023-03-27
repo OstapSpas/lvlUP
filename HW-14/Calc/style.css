@@ -1,0 +1,130 @@
+body {
+    background: rgb(231, 202, 120);
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.calculator {
+    display: flex;
+    
+}
+
+
+.main {
+    border-radius: 20px;
+    width: 400px;
+    height: 600px;
+    background: rgb(77, 57, 41);
+    color: white;
+}
+.logo {
+    padding-left:20px;
+    text-align: start;
+}
+img {
+    
+    width: 50px;
+    height: 50px;
+
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+}
+
+.bg_screen {
+    margin-top: 50px;
+    width: 250px;
+    height: 70px;
+    border-radius: 5px;
+    background: rgb(107, 80, 4);
+}
+
+.screen {
+    margin: 0 auto;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(199, 195, 195);
+    line-height: 40px;
+    border-radius: 5px;
+    text-align: right;
+    font-size: 20px;
+}
+.numbers {
+    padding-right: 5px;
+    color: rgb(26, 24, 24);
+    font-weight: bold;
+}
+.buttons {
+    color: white;
+    margin: 50px;
+    width: 300px;
+    font-size: 24px;
+    
+
+}
+
+.first_elements {
+    line-height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.second_elements {
+    line-height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.third_elements {
+    line-height: 50px;
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.fourth_elements {
+    line-height: 50px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.fifth_elements{
+    line-height: 50px;
+    text-align: center;
+    display: flex;
+}
+
+.button_brown {
+    
+    line-height: 50px;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: rgb(107, 80, 4);
+    border-radius: 5px;
+}
+
+.button_white {
+    font-size: 36px;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    background: rgb(173, 173, 173);
+    border-radius: 5px;
+    color: rgb(78, 59, 7);
+}
+
+.button_orange {
+    font-size: 40px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.main_white {
+    background: rgb(231, 227, 227);
+    margin-left: 100px;
+    border-radius: 20px;
+}
