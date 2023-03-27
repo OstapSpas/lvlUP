@@ -1,0 +1,35 @@
+.main {
+    display:flex;
+    
+    border: 1px solid rgb(190, 190, 190);
+    
+    
+    
+    
+   
+}
+
+input {
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 5px;
+}
+
+.block {
+    
+    
+    padding: 10px;
+    /* border: 1px solid rgb(190, 190, 190); */
+}
+
+p{
+    color: lightslategray;
+    font-size: 16px;
+
+}
+
+.checkbox {
+
+    /* border: 1px solid rgb(190, 190, 190); */
+    padding   :10px;
+    color: rgb(90, 88, 88);
+}
