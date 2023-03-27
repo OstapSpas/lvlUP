@@ -1,0 +1,25 @@
+
+ul{
+    
+    font-size: 40px;
+    padding: 0;
+    list-style-type:none;
+    width: 300px;
+   
+    
+}
+    
+
+.box {
+
+    background-color: blueviolet;
+    color: white;
+    border-radius: 100%;
+    
+}
+li{
+    border: 1px gray solid;
+    border-radius: 10px;
+    
+       
+}
